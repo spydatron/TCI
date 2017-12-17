@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TCI_week_2_exceptions.iml" filepath="$PROJECT_DIR$/.idea/modules/TCI_week_2_exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TCI_week_2_exceptions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TCI_week_2_exceptions_main.iml" group="TCI_week_2_exceptions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TCI_week_2_exceptions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TCI_week_2_exceptions_test.iml" group="TCI_week_2_exceptions" />
+    </modules>
+  </component>
+</project>
